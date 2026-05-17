@@ -1,0 +1,6 @@
+{
+  "name": "AI Meeting Assistant",
+  "description": "Real-time meeting transcription, automated AI summarization, and Gmail sharing with persistent browser history.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
